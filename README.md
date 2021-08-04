@@ -12,6 +12,6 @@ git clone https://github.com/Brridge-Group/Golden-Gate-Hairr.git
 
 4 - Add an entry to the .env file pointing to your MongoDB URI. For example:
 
-MONGO=MONGO=mongodb+srv://my-user-name:HRSNcgFfu2zK6NQ@cluster0.7qgoz.mongodb.net/my-database-name?retryWrites=true&w=majority
+MONGO=mongodb+srv://my-user-name:HRSNcgFfu2zK6NQ@cluster0.7qgoz.mongodb.net/my-database-name?retryWrites=true&w=majority
 
 5 - Run "npm start" under each folder (backend and frontend)
